@@ -1,0 +1,16 @@
+Package: group
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = "Sreyas",
+           family = "A S",
+           role = c("aut", "cre"),
+           email = "sreyasas2020cps@gmail.com"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
