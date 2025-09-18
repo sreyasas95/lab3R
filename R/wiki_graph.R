@@ -20,6 +20,4 @@
 #'
 #' #Example: run Dijkstra starting from node 3
 #' dijkstra(wiki_graph, 3)
-#'
-#' data(wiki_graph)
 "wiki_graph"
